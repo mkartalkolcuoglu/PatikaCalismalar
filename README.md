@@ -1,0 +1,2 @@
+# PatikaCalismalar
+Patika.dev Çalışmaları
